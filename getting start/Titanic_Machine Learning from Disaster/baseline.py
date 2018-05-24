@@ -78,8 +78,8 @@ def data_process():
 
 
     #要做one-hot的
-    oneHot_feature=["Embarked","Parch","Pclass","Sex","SibSp","Cabin"]
-
+    #oneHot_feature=["Embarked","Parch","Pclass","Sex","SibSp","Cabin"]
+    oneHot_feature = ["Embarked", "Parch", "Pclass", "Sex", "SibSp"]
     le=LabelEncoder()     #这个得有，下面直接用LabelEncoder的话编不过
     for feature in oneHot_feature:
         data[feature].fillna(-1)

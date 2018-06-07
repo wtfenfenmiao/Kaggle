@@ -1,0 +1,5 @@
+{"yesno_answers": [], "entity_answers": [[]], "answers": ["。"], "question_type": "ENTITY", "question_id": 221574}
+{"yesno_answers": [], "entity_answers": [[]], "answers": ["漫画"], "question_type": "YES_NO", "question_id": 221575}
+{"yesno_answers": [], "entity_answers": [[]], "answers": ["交换机是不分wan和lan的,都是一样的,是lan口。路由器有wan和lan之分,wan口为输入口,又叫互联网接口,是宽带接入口,lan口是输出接口,又叫局域网接口,是连接电脑的口"], "question_type": "DESCRIPTION", "question_id": 221576}
+{"yesno_answers": [], "entity_answers": [[]], "answers": ["不科学!不科学"], "question_type": "DESCRIPTION", "question_id": 221577}
+{"yesno_answers": [], "entity_answers": [[]], "answers": ["是美国"], "question_type": "DESCRIPTION", "question_id": 221578}
